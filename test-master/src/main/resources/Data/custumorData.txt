@@ -1,0 +1,4 @@
+noor,noor12@gmail.com,1111,Palestine Street/Al Quds Bakery,22,0594227
+Saja,sajaabosair@gmail.com,1111,Street/Al Quds Bakery,12345678,0594228
+Hi,hi12Gail.com,saja1977,Al Quds Bakery,1234321,0594229
+Aseel Abusair,s12029704@stu.najah.edu,1111,Nablus/Palestine Street/Al Quds Bakery,234422,059422
